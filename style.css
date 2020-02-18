@@ -1,0 +1,197 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1024px;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #080808;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    margin: 0 auto;
+    padding: 10px 15px;
+    font-family: 'Roboto', sans-serif;
+    border-bottom: 1px solid #5e5e5e;
+    background-color: #303030;
+}
+
+header .line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .line h1 {
+    float: right;
+    margin: 0 0;
+    padding: 3px 35px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #1b1b1b;
+    background-color: #ffc222;
+}
+
+ul.nav {
+    margin: 0;
+    padding: 4px;
+}
+
+.nav li {
+    display: inline;
+    padding: 10px 10px;
+}
+
+.nav a {
+    letter-spacing: 1px;
+    text-decoration: none;
+    line-height: 25px;
+    color: #cbcacb;
+}
+
+h2 {
+    text-align: center;
+}
+
+.summary h2 {
+    text-align: left;
+}
+
+.flexx {
+    display: flex;
+}
+
+.flexx section {
+    padding: 15px;
+    border: 1px solid silver;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexx section p, .flexx section h2 {
+    width: 100%;
+}
+
+.photo {
+    flex: 1;
+    order: 2;
+}
+
+.info {
+    flex: 2;
+    order: 1;
+    text-align: center;
+    line-height: 30px;
+}
+
+.img {
+    border-radius: 30px;
+    height: 100%;
+    margin: 0 auto;
+    display: table;
+    width: 100%;
+}
+
+.skills li {
+    display: inline;
+    padding: 10px 10px;
+    text-align: center;
+    list-style-type: none;
+}
+
+.educat {
+    text-align: center;
+    line-height: 20px;
+    width: 100%;
+}
+
+.info a {
+    color: #dd2f10;
+}
+
+.language {
+    width: 100%;
+    text-align: center;
+    line-height: 27px;
+}
+
+.language li {
+    list-style-type: none;
+}
+
+footer {
+    text-align: right;
+    border-top: 1px solid #080808;
+}
+
+footer p {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer a {
+    margin-right: 50px;
+}
+
+.educat td {
+    width: calc(100% / 3);
+}
+
+.expir td.bold {
+    text-align: left;
+}
+
+.expir td {
+    width: calc(100% / 4);
+}
+
+table {
+    width: 100%;
+}
+
+.expir table {
+    width: 100%;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.sc {
+    display: flex;
+    line-height: 23px;
+}
+
+.skills {
+    flex: 1;
+    order: 2;
+    text-align: center;
+}
+
+.cod {
+    flex: 1;
+    order: 3;
+    text-align: center;
+}
+
+.language {
+    flex: 1;
+    order: 1;
+    text-align: center;
+}
+
+section {
+    padding: 25px 0;
+}
