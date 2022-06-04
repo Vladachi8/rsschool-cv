@@ -1,6 +1,10 @@
 # Vlad Choporov
+![I'm](22.jpg)
 ## Goal and Wishes
-  I'm studying web programming now and i'd like to continue this, progressing as a specialist. At the same time, I want much higher improve my English too. Why? I want to qualitatively change my life.
+
+I'm studying web programming now and i'd like to continue this, progressing as a specialist.
+At the same time, I want much higher improve my English too. Why?
+I want to qualitatively change my life.
 ___
 
 ## Contact info
@@ -20,19 +24,22 @@ ___
 * Russian native
 
 ___
-## Skills
+## IT Skills
   1. Html, СSS, Git, VanillaJS
-  1. nodeJs, React (basics)
+  1. nodeJs, React
   1. Performance monitor, jMeter
 
-## Experience
-    * [RS School](https://app.rs.school/profile#view)
-    * [codewars](https://www.codewars.com/users/Vladachi8)
-    * [GitHub](https://github.com/Vladachi8)
+## IT Experience
+  * [RS School](https://app.rs.school/profile#view)
+  * [codewars](https://www.codewars.com/users/Vladachi8)
+  * [GitHub](https://github.com/Vladachi8)
 ## Code examples
-Code examples on my gitHub.
+Code examples on my gitHub .
 ___
+## About Me
+  I'm 27.
 
+  4 years engaged in social dancing, taught a little, Human and task oriented, lived and worked in Europe, friendly, responsible, purposeful
 
 
 
