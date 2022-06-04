@@ -1,10 +1,12 @@
 # Vlad Choporov
+
 ![I'm](22.jpg)
 ## Goal and Wishes
 
 I'm studying web programming now and i'd like to continue this, progressing as a specialist.
 At the same time, I want much higher improve my English too. Why?
 I want to qualitatively change my life.
+
 ___
 
 ## Contact info
@@ -37,15 +39,14 @@ ___
   * [GitHub](https://github.com/Vladachi8)
 
 ## Code examples
-Code examples on my gitHub .
+layout and algorithmic tasks on my [GitHub](https://github.com/Vladachi8).
 
 ___
 ## About Me
-  I'm 27.
+  I'm 27. Human and task oriented, lived and worked in Europe, 4 years engaged in social dancing, taught a little, friendly, responsible, purposeful
 
-  4 years engaged in social dancing, taught a little, Human and task oriented, lived and worked in Europe, friendly, responsible, purposeful
-
-
+___
+___
 
 
 
