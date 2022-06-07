@@ -1,6 +1,6 @@
 # Vlad Choporov
 
-![I'm](22.jpg)
+![I'm](img/for_md/22.jpg)
 ## Goal and Wishes
 
 I'm studying web programming now and i'd like to continue this, progressing as a specialist.
