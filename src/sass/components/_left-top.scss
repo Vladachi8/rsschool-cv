@@ -1,0 +1,14 @@
+.main__photo {
+    width: 200px;
+    border-radius: 104px;
+    border: 13px solid white;
+}
+
+.photo {
+    display: inline-block;
+    padding: 35px calc((100% - 200px) / 2);
+}
+
+.line_black {
+    margin-bottom: 14px;
+}

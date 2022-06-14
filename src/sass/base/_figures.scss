@@ -1,0 +1,49 @@
+.rectangle-1y {
+    @include rectangle (75px);
+} 
+
+.rectangle-2y {
+    @include rectangle (55px);
+} 
+
+.rectangle-3y {
+    @include rectangle (70px);
+} 
+
+.rectangle-4y {
+    @include rectangle (150px);
+} 
+
+
+.rectangle-1g {
+    @include rectangle (165px, $color-rectangle);
+} 
+
+.rectangle-2g {
+    @include rectangle (185px, $color-rectangle);
+} 
+
+.rectangle-3g {
+    @include rectangle (175px, $color-rectangle);
+} 
+
+.rectangle-4g {
+    @include rectangle (95px, $color-rectangle);
+} 
+
+//Line
+.logo__upperline {
+    @include line (90px, 6px, $color: $color-primary);
+}
+
+.line_black {
+    @include line (38px, $color: $color-shortline);
+}
+
+.line_long {
+    @include line (560px);
+}
+
+.line_short {
+    @include line (251px);
+}

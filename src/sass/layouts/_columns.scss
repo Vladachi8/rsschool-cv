@@ -1,0 +1,38 @@
+.layout-4-column {
+    @include columns($width: 21%);
+}
+
+.layout-3-column {
+    @include columns($width: 30%);
+}
+
+.layout-2-column {
+    @include columns($width: 44%);
+}
+
+.layout-3-row {
+    @include rows($width: 26%);
+}
+
+.layout-5-row {
+    //@include rows($width: 25%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.left {
+    flex-basis: 40%;
+    background-color: $color-primary;
+    //padding-bottom: 25px;
+}
+
+// .right {
+//     flex-basis: 55%;
+// }
+
+.layout-3-row {
+    height: 615px;
+    margin-top: 80px;
+    //padding-bottom: 20px;
+}
