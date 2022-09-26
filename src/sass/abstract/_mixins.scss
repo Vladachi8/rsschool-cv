@@ -1,0 +1,40 @@
+@mixin font ($size, $height: $size, $weight: normal, $style: normal) {
+    font-size: $size;
+    font-style: $style;
+    font-weight: $weight;
+    line-height: $height;
+}
+
+@mixin columns ($width) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    >* {
+        flex-basis: $width;
+    }
+}
+
+@mixin rows ($width) {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    >* {
+        flex-basis: $width;
+    }
+}
+
+@mixin rectangle ($width, $color: $color-primary) {
+    display: inline-block;
+    height: 15px;
+    width: $width;
+    background-color: $color;
+}
+
+@mixin line ($width, $height: 4px, $color: $color-longline) {
+    display: inline-block;
+    border-radius: 20px;
+    width: $width;
+    height: $height;
+    background-color: $color;
+}

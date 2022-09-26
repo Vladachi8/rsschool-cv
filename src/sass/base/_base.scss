@@ -1,0 +1,27 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    @extend %font-prim;
+    @include font($size:  1.6rem, $height: 2.6rem, $weight: normal);
+    min-height: 100vh;
+}
+
+h1 {
+    @extend %font-add;
+    @include font($height: 5.5rem, $size: 7rem, $weight: 700);
+}
+
+h2 {
+    @extend %font-add;
+    @include font($size: 3rem, $weight: 700);
+}
+
+h3 {
+    @include font($size: 1.8rem, $weight: 700);
+}
+
+.main {
+    flex: 1 0 auto;
+}

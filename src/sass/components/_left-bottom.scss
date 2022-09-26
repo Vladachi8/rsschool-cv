@@ -1,0 +1,29 @@
+.icons {
+    margin-top: 20px;
+}
+
+.left__bottom {
+    margin-top: 40px;
+    padding: 0 35px;
+}
+
+.layout-5-row {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 200px;
+}
+
+.link {
+    margin-left: 20px;
+    color: $color-link;
+    font-weight: 700;
+    font-size: 1.8rem;
+
+    cursor: pointer;
+    transition: all .3s ease-out;
+}
+
+.link:hover {
+    color: $color-linkhover;
+    text-decoration: underline;
+}

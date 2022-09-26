@@ -1,0 +1,31 @@
+footer {
+    flex: 0 0 auto;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: $color-rectangle;
+}
+
+.rs-logo {
+    width: 70px;
+    height: 50px;
+}
+
+.git {
+    display: flex;
+}
+
+.rsschool-link:hover {
+    cursor: pointer;;
+}
+
+.footer-git-descroption {
+    margin-left: 5px;
+}
+
+.footer-git-descroption:hover {
+    color: white;
+}
