@@ -1,0 +1,29 @@
+//Abstract
+@import "abstract/constants";
+@import "abstract/placeholders";
+@import "abstract/mixins";
+
+//Base
+@import "base/normalize";
+@import "base/base";
+@import "base/figures";
+@import "base/logo";
+@import "base/icons";
+
+// Layouts
+@import "layouts/wrapper";
+@import "layouts/columns";
+@import "layouts/footer";
+
+
+// Components
+@import "components/education";
+@import "components/exp-code";
+@import "components/languages";
+@import "components/left-bottom";
+@import "components/left-middle";
+@import "components/left-top";
+@import "components/skills";
+@import "components/navigation";
+
+@import "layouts/media";
