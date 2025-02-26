@@ -4,7 +4,7 @@
 ## Goal and Wishes
 
 I want to gain more commercial experience and improve myself as a specialist.
-At the same time, I want improve my English. Why?
+At the same time, I'm improving my English. Why?
 
 Because after a while I don't lose interest in this activity and I want to consume the content in the original.
 
