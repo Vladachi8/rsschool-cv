@@ -1,0 +1,12 @@
+.line_short {
+    margin-bottom: 9px;
+}
+
+.skillang {
+    margin-top: 5px;
+}
+
+.skills__level {
+    @extend %font-add;
+    word-spacing: 1px;
+}

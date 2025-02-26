@@ -1,0 +1,39 @@
+.education__wrapper {
+    justify-content: space-around;
+    flex-wrap: nowrap;
+}
+
+.line_long {
+    margin-bottom: 12px;
+}
+
+.first {
+    flex-basis: 60%;
+}
+
+.second {
+    flex-basis: 29%;
+}
+
+.year {
+    color: $color-shortline;
+}
+
+.institution {
+    color: $color-primary;
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+}
+
+.faculty1, .faculty {
+    font-weight: 700;
+}
+
+.faculty1 {
+    padding-bottom: 43px;
+}
+
+.first__step {
+    padding-bottom: 15px;
+}
